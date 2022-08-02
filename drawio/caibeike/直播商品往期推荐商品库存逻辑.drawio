@@ -1,1 +1,158 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T06:29:01.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.0" etag="csDlzUyj4vWZHpWSP9c1" type="github"><diagram id="rfEEvazZIyIDPs2l2m8_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-02T02:57:51.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RwMuMuP7tm2bGjB7JxfY" version="20.2.0" type="github">
+  <diagram id="rfEEvazZIyIDPs2l2m8_" name="第 1 页">
+    <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-1" value="更新表live_item&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;LiveSales&lt;/font&gt;数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-2" target="UqDokPg_Br6dFU7zfzHs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-2" value="直播结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-3" target="UqDokPg_Br6dFU7zfzHs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-3" value="查询当前直播的liveItem" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-5" target="UqDokPg_Br6dFU7zfzHs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-5" value="查询item在直播间时间内售卖量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-10" target="UqDokPg_Br6dFU7zfzHs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-10" value="查询往期商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-11" target="UqDokPg_Br6dFU7zfzHs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-11" target="UqDokPg_Br6dFU7zfzHs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="280" />
+              <mxPoint x="745" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-11" value="按最近三期直播间查询前9个商品，商品重复自动查询下一排名商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-13" target="UqDokPg_Br6dFU7zfzHs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-13" target="UqDokPg_Br6dFU7zfzHs-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="420" />
+              <mxPoint x="1140" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-13" value="查询itemRecommend" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.685;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-16" target="UqDokPg_Br6dFU7zfzHs-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="400" />
+              <mxPoint x="1137" y="400" />
+              <mxPoint x="1137" y="497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-16" value="继续查询余下的商品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-18" target="UqDokPg_Br6dFU7zfzHs-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-18" value="LiveUpdateRecommendJob" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="502" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-19" target="UqDokPg_Br6dFU7zfzHs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-19" value="根据直播间商品添加推荐商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="502" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-21" target="UqDokPg_Br6dFU7zfzHs-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-39" value="数据落表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UqDokPg_Br6dFU7zfzHs-38">
+          <mxGeometry x="-0.208" y="-2" relative="1" as="geometry">
+            <mxPoint x="10" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-21" target="UqDokPg_Br6dFU7zfzHs-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-21" value="查询索引获取销量(item_recomment)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="502" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqDokPg_Br6dFU7zfzHs-27" target="UqDokPg_Br6dFU7zfzHs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-27" value="处理已经结束的直播场次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="502" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="440" as="sourcePoint" />
+            <mxPoint x="1270" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="260" as="sourcePoint" />
+            <mxPoint x="1280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="110" as="sourcePoint" />
+            <mxPoint x="1030" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="610" as="sourcePoint" />
+            <mxPoint x="1286" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-34" value="更新直播场次期间售卖量(新增)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="172.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-35" value="查询往期商品(部分开发)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="341.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-36" value="往期商品表数据(无需更改)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="517" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-37" value="itemRecommend" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="497" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="780" as="sourcePoint" />
+            <mxPoint x="1286" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-43" value="index数据构建item_recomment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="690" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UqDokPg_Br6dFU7zfzHs-44" value="index：item_recomment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="682.5" width="210" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
