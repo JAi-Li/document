@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T02:08:02.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fUPxn9Jojmkc9U4GyFwj" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T03:33:52.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9KpeFVYKVrLHKDPuNyV8" version="20.2.3" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
-    <mxGraphModel dx="2138" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2697" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,27 +129,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDOTyPMtcSiq2CqelDkS-3" value="IncrementIndexJob" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDOTyPMtcSiq2CqelDkS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fDOTyPMtcSiq2CqelDkS-4" target="fDOTyPMtcSiq2CqelDkS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDOTyPMtcSiq2CqelDkS-4" value="job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-190" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDOTyPMtcSiq2CqelDkS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fDOTyPMtcSiq2CqelDkS-6" target="fDOTyPMtcSiq2CqelDkS-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="-50" as="targetPoint" />
+            <mxPoint x="-70" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fDOTyPMtcSiq2CqelDkS-6" value="message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="-190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-180" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fDOTyPMtcSiq2CqelDkS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fDOTyPMtcSiq2CqelDkS-9" target="fDOTyPMtcSiq2CqelDkS-12">
+        <mxCell id="fDOTyPMtcSiq2CqelDkS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.536;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fDOTyPMtcSiq2CqelDkS-9" target="fDOTyPMtcSiq2CqelDkS-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDOTyPMtcSiq2CqelDkS-9" value="IndexMessageManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="70" width="140" height="60" as="geometry" />
+          <mxGeometry x="-70" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDOTyPMtcSiq2CqelDkS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fDOTyPMtcSiq2CqelDkS-12" target="pMYmZRGYHHG0uFq6aiRN-14">
           <mxGeometry relative="1" as="geometry">
