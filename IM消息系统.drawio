@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T10:19:12.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XXuozFy5lUWsui_tSyoj" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T08:57:49.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rdyhEcivLpjMFS87COQW" version="20.6.0" type="github">
   <diagram id="dH2hLQC4E_WSqq93PLYH" name="第 1 页">
-    <mxGraphModel dx="1298" dy="674" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="805" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,25 +45,25 @@
           <mxGeometry x="96" y="195" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3elcdA-hPDRkj9ZMIHb9-9" value="IM-server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="603.5" y="120" width="162.75" height="680" as="geometry" />
+          <mxGeometry x="603.5" y="120" width="162.75" height="741" as="geometry" />
         </mxCell>
         <mxCell id="3elcdA-hPDRkj9ZMIHb9-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=rgb(0, 0, 0);fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);fillColor=rgb(255, 255, 255);" parent="3elcdA-hPDRkj9ZMIHb9-9" vertex="1">
-          <mxGeometry x="72.13" y="270" width="10" height="80" as="geometry" />
+          <mxGeometry x="76.36999999999999" y="270" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3elcdA-hPDRkj9ZMIHb9-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=rgb(0, 0, 0);fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);fillColor=rgb(255, 255, 255);" parent="3elcdA-hPDRkj9ZMIHb9-9" vertex="1">
-          <mxGeometry x="72.13" y="535" width="10" height="120" as="geometry" />
+          <mxGeometry x="76.37" y="456" width="10" height="285" as="geometry" />
         </mxCell>
         <mxCell id="aSaav4n1bJc0CXSEU9K_-17" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);exitX=1.122;exitY=0.286;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3elcdA-hPDRkj9ZMIHb9-9" source="3elcdA-hPDRkj9ZMIHb9-17" target="3elcdA-hPDRkj9ZMIHb9-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="74.63000000000011" y="330" as="sourcePoint" />
-            <mxPoint x="24.63000000000011" y="280" as="targetPoint" />
+            <mxPoint x="78.8700000000001" y="330" as="sourcePoint" />
+            <mxPoint x="28.87000000000011" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="76" y="323" />
+              <mxPoint x="80.24" y="323" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaav4n1bJc0CXSEU9K_-18" value="鉴权绑定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);" vertex="1" parent="3elcdA-hPDRkj9ZMIHb9-9">
-          <mxGeometry x="118.5" y="295" width="44.25" height="30" as="geometry" />
+          <mxGeometry x="122.74" y="295" width="44.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3elcdA-hPDRkj9ZMIHb9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);exitX=0.98;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3elcdA-hPDRkj9ZMIHb9-10" target="3elcdA-hPDRkj9ZMIHb9-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -111,35 +111,35 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3elcdA-hPDRkj9ZMIHb9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);startArrow=none;startFill=0;endArrow=classicThin;endFill=1;entryX=-0.18;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="3elcdA-hPDRkj9ZMIHb9-32">
+        <mxCell id="3elcdA-hPDRkj9ZMIHb9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);startArrow=none;startFill=0;endArrow=classicThin;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="618" as="sourcePoint" />
-            <mxPoint x="365.25" y="620" as="targetPoint" />
+            <mxPoint x="684" y="618" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3elcdA-hPDRkj9ZMIHb9-34" value="向群组发送消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=rgb(0, 0, 0);" parent="3elcdA-hPDRkj9ZMIHb9-33" vertex="1" connectable="0">
           <mxGeometry x="-0.22" y="4" relative="1" as="geometry">
-            <mxPoint x="23" y="4" as="offset" />
+            <mxPoint x="-17" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3elcdA-hPDRkj9ZMIHb9-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);startArrow=none;startFill=0;endArrow=classicThin;endFill=1;entryX=-0.1;entryY=0.362;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.22;exitY=0.907;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="3elcdA-hPDRkj9ZMIHb9-39" edge="1" source="3elcdA-hPDRkj9ZMIHb9-32">
+        <mxCell id="3elcdA-hPDRkj9ZMIHb9-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);startArrow=none;startFill=0;endArrow=classicThin;endFill=1;exitX=1.22;exitY=0.907;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="3elcdA-hPDRkj9ZMIHb9-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380.25" y="689.5" as="sourcePoint" />
-            <mxPoint x="530.25" y="689.5" as="targetPoint" />
+            <mxPoint x="684" y="767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3elcdA-hPDRkj9ZMIHb9-41" value="发送消息给client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=rgb(0, 0, 0);" parent="3elcdA-hPDRkj9ZMIHb9-40" vertex="1" connectable="0">
+        <mxCell id="3elcdA-hPDRkj9ZMIHb9-41" value="发送消息给对应的server发送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=rgb(0, 0, 0);" parent="3elcdA-hPDRkj9ZMIHb9-40" vertex="1" connectable="0">
           <mxGeometry x="-0.22" y="4" relative="1" as="geometry">
-            <mxPoint x="23" y="4" as="offset" />
+            <mxPoint x="21" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3elcdA-hPDRkj9ZMIHb9-43" value="客户端2" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;glass=0;rounded=0;sketch=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="120" width="130" height="650" as="geometry" />
+          <mxGeometry x="1090" y="120" width="130" height="722" as="geometry" />
         </mxCell>
         <mxCell id="3elcdA-hPDRkj9ZMIHb9-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=rgb(0, 0, 0);fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);fillColor=rgb(255, 255, 255);" parent="3elcdA-hPDRkj9ZMIHb9-43" vertex="1">
-          <mxGeometry x="60" y="555" width="10" height="95" as="geometry" />
+          <mxGeometry x="60" y="555" width="10" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="3elcdA-hPDRkj9ZMIHb9-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);startArrow=none;startFill=0;endArrow=classicThin;endFill=1;entryX=0.13;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="3elcdA-hPDRkj9ZMIHb9-46" edge="1">
+        <mxCell id="3elcdA-hPDRkj9ZMIHb9-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);startArrow=none;startFill=0;endArrow=classicThin;endFill=1;entryX=-0.186;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.227;exitY=0.743;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="3elcdA-hPDRkj9ZMIHb9-46" edge="1" source="3elcdA-hPDRkj9ZMIHb9-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="716" as="sourcePoint" />
             <mxPoint x="730.25" y="720" as="targetPoint" />
@@ -151,7 +151,7 @@
             <mxPoint x="23" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3elcdA-hPDRkj9ZMIHb9-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);dashed=1;exitX=-0.1;exitY=0.888;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="3elcdA-hPDRkj9ZMIHb9-46">
+        <mxCell id="3elcdA-hPDRkj9ZMIHb9-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);dashed=1;exitX=-0.1;exitY=0.888;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.227;entryY=0.882;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="3elcdA-hPDRkj9ZMIHb9-39" source="3elcdA-hPDRkj9ZMIHb9-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="732.75" y="760" as="sourcePoint" />
             <mxPoint x="690" y="760" as="targetPoint" />
@@ -215,19 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3elcdA-hPDRkj9ZMIHb9-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=rgb(0, 0, 0);fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);fillColor=rgb(255, 255, 255);" parent="1" vertex="1">
-          <mxGeometry x="474" y="600" width="10" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="aSaav4n1bJc0CXSEU9K_-61" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);exitX=0.935;exitY=0.325;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3elcdA-hPDRkj9ZMIHb9-32" target="3elcdA-hPDRkj9ZMIHb9-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="680" as="sourcePoint" />
-            <mxPoint x="530" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="636" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3elcdA-hPDRkj9ZMIHb9-37" value="查询群组用户&lt;br&gt;查询用户所属IM服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
-          <mxGeometry x="490" y="630" width="140" height="40" as="geometry" />
+          <mxGeometry x="474" y="646" width="10" height="133" as="geometry" />
         </mxCell>
         <mxCell id="aSaav4n1bJc0CXSEU9K_-64" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);exitX=-0.16;exitY=0.138;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aSaav4n1bJc0CXSEU9K_-48" target="3elcdA-hPDRkj9ZMIHb9-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -239,6 +227,29 @@
           <mxGeometry x="-0.1484" relative="1" as="geometry">
             <mxPoint x="-11" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaav4n1bJc0CXSEU9K_-67" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);exitX=-0.258;exitY=0.29;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3elcdA-hPDRkj9ZMIHb9-39" target="3elcdA-hPDRkj9ZMIHb9-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="677" as="sourcePoint" />
+            <mxPoint x="494" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaav4n1bJc0CXSEU9K_-68" value="通过route转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=rgb(0, 0, 0);" vertex="1" connectable="0" parent="aSaav4n1bJc0CXSEU9K_-67">
+          <mxGeometry x="0.1631" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaav4n1bJc0CXSEU9K_-69" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);exitX=1.1;exitY=0.282;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3elcdA-hPDRkj9ZMIHb9-32" target="3elcdA-hPDRkj9ZMIHb9-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532" y="753" as="sourcePoint" />
+            <mxPoint x="570" y="703" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="532" y="684" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3elcdA-hPDRkj9ZMIHb9-37" value="查询群组用户&lt;br&gt;查询用户所属IM服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
+          <mxGeometry x="513" y="684" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
